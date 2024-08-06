@@ -1,0 +1,22 @@
+.title{
+    width: 100%;
+    background-color: greenyellow;
+    font-size: 30px;
+    color: red;
+    text-align: center;
+}
+
+.row{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    width: 400px;
+}
+
+video{
+    width: 400px;
+    height: 400px;
+}
+
